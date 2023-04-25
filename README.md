@@ -5,4 +5,3 @@ MickyMouse is a simple 2D game built in  HTML Programming language. In this game
 #Install
 
 First fork the web site
-the clone using like this https://github.com/Yashdon999/MickyMouse.git
