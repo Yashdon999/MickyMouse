@@ -1,3 +1,3 @@
 # MickyMouse
 
-MickyMouse is a 
+MickyMouse is
