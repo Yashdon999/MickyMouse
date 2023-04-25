@@ -1,3 +1,3 @@
 # MickyMouse
 
-MickyMouse is a simple \]
+MickyMouse is a simple\
