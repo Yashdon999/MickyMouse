@@ -1,3 +1,1 @@
 # MickyMouse
-
-MickyMouse is
