@@ -1,3 +1,3 @@
 # MickyMouse
 
-MickyMouse is a simple 2D game built \
+MickyMouse is a simple 2D game]
