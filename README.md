@@ -1,2 +1,2 @@
 # 🐭 Mickey Mouse
-This is a simple game based on the classic Disney character,
+This is a simple game based on the classic Disney character, Mickey Mouse.
