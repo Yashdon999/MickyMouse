@@ -14,7 +14,6 @@ ex : git clone https://github.com/Yashdon999/MickyMouse.git
 2. Install the required libraries:
 3. pip install -r requirements.txt
 
-
 ### 🎮 Running the game
 1. Navigate to the project directory:
 cd MickyMouse
