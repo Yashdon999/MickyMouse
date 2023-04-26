@@ -7,13 +7,13 @@ These instructions will get you a copy of the project up and running on your loc
 ### 📋 Prerequisites:
 - HTML
 
-### 🔧 Installing
+### 🔧 Installing:
 1. Clone the repository:
 ex : git clone https://github.com/Yashdon999/MickyMouse.git
 2. Install the required libraries:
 3. pip install -r requirements.txt
 
-### 🎮 Running the game
+### 🎮 Running the game:
 1. Navigate to the project directory:
 cd MickyMouse
 2. Run the game:
@@ -21,11 +21,11 @@ cd MickyMouse
 ## 🎯 How to Play
 Use the arrow keys to move Mickey Mouse and collect as many coins as possible. Avoid the obstacles and enemies.
 
-## 🛠️ Built With
+## 🛠️ Built With:
 
 - [HTML]
 
-## 👨‍💻 Author
+## 👨‍💻 Author:
 
 - [Yashdon999](https://github.com/Yashdon999)
 
