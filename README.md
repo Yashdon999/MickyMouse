@@ -35,4 +35,4 @@ Use the arrow keys to move Mickey Mouse and collect as many coins as possible. A
 ## 🙏 Acknowledgments
 
 - This game was inspired by the classic Mickey Mouse cartoons.
-- Special thanks to the Pygame community for their support and contributions.
+- Special thanks to the HTML community for their support and contributions.
