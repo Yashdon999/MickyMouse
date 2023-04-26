@@ -19,3 +19,5 @@ ex : git clone https://github.com/Yashdon999/MickyMouse.git
 1. Navigate to the project directory:
 cd MickyMouse
 2. Run the game:
+
+## 🎯 How to Play
