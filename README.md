@@ -25,7 +25,7 @@ Use the arrow keys to move Mickey Mouse and collect as many coins as possible. A
 
 ## 🛠️ Built With
 
-- [Python]
+- [HTML]
 
 
 ## 👨‍💻 Author
