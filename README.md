@@ -9,3 +9,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### 🔧 Installing
 1. Clone the repository:
+ex : git clone https://github.com/Yashdon999/MickyMouse.git
