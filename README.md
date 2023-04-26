@@ -29,6 +29,7 @@ Use the arrow keys to move Mickey Mouse and collect as many coins as possible. A
 
 - [Yashdon999](https://github.com/Yashdon999)
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgments:
+
 - This game was inspired by the classic Mickey Mouse cartoons.
 - Special thanks to the HTML community for their support and contributions.
