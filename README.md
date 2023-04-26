@@ -17,3 +17,4 @@ ex : git clone https://github.com/Yashdon999/MickyMouse.git
 
 ### 🎮 Running the game
 1. Navigate to the project directory:
+cd MickyMouse
