@@ -21,3 +21,18 @@ cd MickyMouse
 2. Run the game:
 
 ## 🎯 How to Play
+Use the arrow keys to move Mickey Mouse and collect as many coins as possible. Avoid the obstacles and enemies.
+
+## 🛠️ Built With
+
+- [Python](https://www.python.org/)
+- [Pygame](https://www.pygame.org/)
+
+## 👨‍💻 Author
+
+- [Yashdon999](https://github.com/Yashdon999)
+
+## 🙏 Acknowledgments
+
+- This game was inspired by the classic Mickey Mouse cartoons.
+- Special thanks to the Pygame community for their support and contributions.
