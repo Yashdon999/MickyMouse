@@ -12,4 +12,5 @@ These instructions will get you a copy of the project up and running on your loc
 ex : git clone https://github.com/Yashdon999/MickyMouse.git
 
 2. Install the required libraries:
+3. pip install -r requirements.txt
 
